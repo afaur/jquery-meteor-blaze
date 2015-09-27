@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/eface2face/jquery-meteor-blaze",
   "dependencies": {
-    "meteor-client": "git://github.com/afaur/meteor-client.git#master"
+    "meteor-client": "git://github.com/afaur/meteor-client.git#variant-includes"
   }
 }
